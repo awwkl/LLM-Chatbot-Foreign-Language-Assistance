@@ -1,0 +1,302 @@
+{
+    "[b1]": {
+        "query": "How to introduce myself and say where I am from?",
+        "paraphrased_queries_list": [
+            "How to introduce myself and say where I am from?",
+            "How do I introduce myself and say where i am from?",
+            "How can I introduce myself and say where i am from?",
+            "How do I introduce myself and say where you are from?",
+            "How do I introduce myself to the world?",
+            "How can I introduce myself to the world?",
+            "How to introduce myself and say where I am?",
+            "How do I introduce myself and say where i am?",
+            "How can I introduce myself and say where i am?",
+            "How to introduce myself and say where I am from.?"
+        ]
+    },
+    "[b2]": {
+        "query": "What are some basic phrases?",
+        "paraphrased_queries_list": [
+            "What are some basic phrases?",
+            "What are basic phrases?",
+            "What are the basic phrases?",
+            "What is a basic phrase?",
+            "What is the basic phrase?",
+            "What are some basic words?",
+            "What are some basic phrases in English?",
+            "What are some basic phrase?",
+            "What is basic phrase?",
+            "What is basic phrases?"
+        ]
+    },
+    "[b3]": {
+        "query": "How to greet people at different times of day?",
+        "paraphrased_queries_list": [
+            "How do I greet people at different times of the day?",
+            "How do I greet people at different times of day?",
+            "How do you greet people at different times of the day?",
+            "How can I greet people at different times of day?",
+            "How can I greet people at different times of the day?",
+            "How do you greet people at different times of day?",
+            "How do you greet people at different times of your day?",
+            "How do I greet people in different times of day?",
+            "How do greet people at different times of day?",
+            "How do I greet people at different times of the day?"
+        ]
+    },
+    "[b4]": {
+        "query": "How to thank someone?",
+        "paraphrased_queries_list": [
+            "How do I thank someone?",
+            "How can I thank someone?",
+            "What is the best way to thank someone?",
+            "How do you thank someone?",
+            "How do I thank a person?",
+            "How do I thank people?",
+            "How do I thank someone for their service?",
+            "How do I thank someone for their kindness?",
+            "How do I thank someone for their gratitude?",
+            "How can you thank someone?"
+        ]
+    },
+    "[b5]": {
+        "query": "How to apologize?",
+        "paraphrased_queries_list": [
+            "How do I apologize?",
+            "How can I apologize?",
+            "What is the best way to apologize?",
+            "How do you apologize?",
+            "What should I do to apologize?",
+            "How do I apologize for my mistakes?",
+            "How should I apologize?",
+            "How can I apologize for my mistakes?",
+            "How can you apologize?",
+            "How to apologize?"
+        ]
+    },
+    "[b6]": {
+        "query": "How to say goodbye?",
+        "paraphrased_queries_list": [
+            "How do I say goodbye?",
+            "How do you say goodbye?",
+            "How do you say goodbye to someone?",
+            "How can I say goodbye?",
+            "What is the best way to say goodbye?",
+            "How do I say goodbye to someone?",
+            "How can I say goodbye to someone?",
+            "What should I do to say goodbye?",
+            "How can you say goodbye?",
+            "How do I say goodbye to my wife?"
+        ]
+    },
+    "[b7]": {
+        "query": "How to ask questions to find out about others?",
+        "paraphrased_queries_list": [
+            "How do I ask questions about others?",
+            "How do I ask questions to find out about others?",
+            "How can I ask questions about others?",
+            "What is the best way to ask questions about others?",
+            "How can I ask questions to find out about others?",
+            "How do I ask questions about myself?",
+            "How do I ask questions on Quora?",
+            "How do you ask questions about others?",
+            "How do I ask questions to find out more about others?",
+            "How do I ask a question about others?"
+        ]
+    },
+    "[d1]": {
+        "query": "How to ask where is a place and how to get there?",
+        "paraphrased_queries_list": [
+            "How can I ask where is a place and how to get there?",
+            "How do I ask where is a place and how to get there?",
+            "How do I ask where is a place?",
+            "How can I ask where is a place?",
+            "How can I ask where is a place and get there?",
+            "How do you ask where is a place and how to get there?",
+            "How do I ask where a place is and how to get there?",
+            "How can you ask where is a place and how to get there?",
+            "How do you ask where is a place?",
+            "How to ask where is a place?"
+        ]
+    },
+    "[d2]": {
+        "query": "How to ask where is the nearest XXX?",
+        "paraphrased_queries_list": [
+            "How do I ask where is the nearest XXx?",
+            "How can I ask where is the nearest XXx?",
+            "How do I ask where is the nearest xX?",
+            "How do you ask where is the nearest XXx?",
+            "How do I ask where is the nearest xXxx?",
+            "How can I ask where is the nearest xX?",
+            "How do I ask where is the nearest XX?",
+            "How do I ask where is the nearest XXY?",
+            "How can I ask where is the nearest XX?",
+            "How can I ask where is the nearest XXY?"
+        ]
+    },
+    "[h1]": {
+        "query": "How to ask someone for help?",
+        "paraphrased_queries_list": [
+            "How do I ask someone for help?",
+            "How can I ask someone for help?",
+            "How do I ask for help?",
+            "How do you ask someone for help?",
+            "How do I ask someone to help me?",
+            "How can I ask for help?",
+            "How do I ask people for help?",
+            "How can I ask someone to help me?",
+            "How do I ask someone for assistance?",
+            "How do I ask someone to help?"
+        ]
+    },
+    "[h2]": {
+        "query": "How to ask for help with understanding something?",
+        "paraphrased_queries_list": [
+            "How do I ask for help with understanding something?",
+            "How do I ask for help in understanding something?",
+            "How can I ask for help with understanding something?",
+            "How can I ask for help in understanding something?",
+            "How do I ask for help to understand something?",
+            "How do I ask someone for help with understanding something?",
+            "How do I ask someone for help in understanding something?",
+            "How do you ask for help with understanding something?",
+            "How can I ask someone for help with understanding something?",
+            "How do I ask for help with understanding things?"
+        ]
+    },
+    "[h3]": {
+        "query": "How to provide my address in an emergency situation?",
+        "paraphrased_queries_list": [
+            "How do I provide my address in an emergency situation?",
+            "How can I provide my address in an emergency situation?",
+            "How do you provide your address in an emergency situation?",
+            "How do I give my address in an emergency situation?",
+            "How do I get my address in an emergency situation?",
+            "How do I provide my address for an emergency situation?",
+            "How do I provide my address in emergency situations?",
+            "How can I provide my address in emergency situations?",
+            "How do I provide my address in a situation?",
+            "What is the best way to provide my address in emergency situations?"
+        ]
+    },
+    "[o1]": {
+        "query": "How to order food?",
+        "paraphrased_queries_list": [
+            "How do I order food?",
+            "How do you order food?",
+            "How can I order food?",
+            "How do I order a food?",
+            "How can I order a food?",
+            "How can you order food?",
+            "How do I order foods?",
+            "How to order food?",
+            "How do I order a meal?",
+            "How can I order a meal?"
+        ]
+    },
+    "[o2]": {
+        "query": "How to convey my dietary restrictions?",
+        "paraphrased_queries_list": [
+            "How do I convey my dietary restrictions?",
+            "How can I convey my dietary restrictions?",
+            "How do you convey your dietary restrictions?",
+            "How do I convey dietary restrictions?",
+            "How can you convey your dietary restrictions?",
+            "How can I convey dietary restrictions?",
+            "How do I convey my dietary restriction?",
+            "How do you convey dietary restrictions?",
+            "How can I convey my dietary restriction?",
+            "How do I convey my diet restrictions?"
+        ]
+    },
+    "[o3]": {
+        "query": "How to ask for recommendations for food in a restaurant or what to buy in a shop?",
+        "paraphrased_queries_list": [
+            "How do I ask for food recommendations in a restaurant?",
+            "How can I ask for food recommendations in a restaurant?",
+            "What should I buy in a shop?",
+            "What should I buy in a restaurant?",
+            "How do I ask for recommendations on food in a restaurant or what to buy at the shop?",
+            "How can I ask for recommendations on food in a restaurant or what to buy in the shop?",
+            "How do I ask for recommendations on food in a restaurant or what to buy in the shop?",
+            "How do I ask for recommendations on food in a restaurant or what to buy from the shop?",
+            "How can I ask for recommendations on food in a restaurant or what to buy at the shop?",
+            "How can I ask for recommendations on food in a restaurant or what to buy in shop?"
+        ]
+    },
+    "[o4]": {
+        "query": "How to ask if a shop sells a certain item, and can you let me know where it is?",
+        "paraphrased_queries_list": [
+            "How do I ask if shop sells certain items and can you tell me where it is?",
+            "How do I ask if shop sells certain items and can you tell me where they are?",
+            "How can I ask if my shop sells something?",
+            "How do I ask if my shop sells certain items?",
+            "How do I ask if my shop sells something?",
+            "How can I ask if my shop sells certain items?",
+            "How do I ask if shop sells certain items?",
+            "How do I ask if my shop sells some items?",
+            "How can I ask if my shop sells some items?",
+            "How do I ask if shop sells certain item?"
+        ]
+    },
+    "[o5]": {
+        "query": "How to ask how much does this costs?",
+        "paraphrased_queries_list": [
+            "How much does this cost?",
+            "How do I ask how much does this cost?",
+            "How much does it cost?",
+            "How can I ask how much does this cost?",
+            "How do you ask how much does this cost?",
+            "How do I ask how much does it cost?",
+            "How do you ask how much does it cost?",
+            "How to ask how much does this cost?",
+            "How do I ask how much does this costs?",
+            "How can I ask how much does it cost?"
+        ]
+    },
+    "[o6]": {
+        "query": "How to ask what something is?",
+        "paraphrased_queries_list": [
+            "How do I ask what something is?",
+            "How do you ask what something is?",
+            "How can I ask what something is?",
+            "How do I ask what is a question?",
+            "How do I ask what is something?",
+            "How do I ask what is?",
+            "How can you ask what something is?",
+            "How do I ask what is a thing?",
+            "How do I ask what is the question?",
+            "How do I ask what is the answer?"
+        ]
+    },
+    "[o7]": {
+        "query": "How to ask if I can pay in cash or card?",
+        "paraphrased_queries_list": [
+            "How to ask if I can pay in cash or card?",
+            "How do ask if I can pay in cash or card?",
+            "How to ask if you can pay in cash or card?",
+            "How to ask if I can pay cash or card?",
+            "How do ask if I can pay cash or card?",
+            "How to ask if I can pay in cash or cards?",
+            "How to ask if I can pay in cash?",
+            "How can I ask for payment in cash or card?",
+            "How do ask if I can pay in cash?",
+            "How do ask if I can pay in cash or cards?"
+        ]
+    },
+    "[o8]": {
+        "query": "How to negotiate or bargain the price?",
+        "paraphrased_queries_list": [
+            "How do you negotiate the price?",
+            "How do you negotiate or bargain the price?",
+            "How do I negotiate or bargain the price?",
+            "How can I negotiate or bargain the price?",
+            "How do you negotiate a price?",
+            "How do I negotiate the price?",
+            "How can I negotiate the price?",
+            "How do you negotiate price?",
+            "What is the best way to negotiate price?",
+            "How do I negotiate price?"
+        ]
+    }
+}

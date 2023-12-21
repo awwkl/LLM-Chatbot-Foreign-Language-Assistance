@@ -1,0 +1,27 @@
+=== Basic ===
+[b1] How to introduce myself (my name is John) and say where I am from? || introduce myself || introduction
+[b2] What are some basic phrases? || basic phrases || simple words
+[b3] How to greet people at different times of day? || greetings || greet others
+[b4] How to thank someone? || thanks || thank you
+[b5] How to apologize? || sorry || apologize
+[b6] How to say goodbye? || goodbye || see you
+[b7] How to ask questions to find out about others? || ask questions about others || ask questions
+
+=== Directions ===
+[d1] How to ask where is a place and how to get there? || ask for directions || ask directions
+[d2] How to ask where is the nearest XXX? || ask for nearest || find nearest
+
+=== Help ===
+[h1] How to ask someone for help? || ask for help || get help
+[h2] How to ask for help with understanding something? || ask for help understanding || need help understanding
+[h3] How to provide my address in an emergency situation? || emergency || urgent help
+
+=== Ordering at a shop / restaurant ===
+[o1] How to order food? || order food || order
+[o2] How to convey my dietary restrictions? || dietary restrictions || food restriction
+[o3] How to ask for recommendations for food in a restaurant or what to buy in a shop? || ask for recommendations || get recommendations
+[o4] How to ask if a shop sells a certain item, and can you let me know where it is? || ask for certain item || ask item
+[o5] How to ask how much does this costs? || how much it costs || ask costs
+[o6] How to ask what something is? || ask what it is || ask what 
+[o7] How to ask if I can pay in cash or card? || cash or card || how to pay?
+[o8] How to negotiate or bargain the price? || negotiate || bargain
