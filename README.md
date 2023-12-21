@@ -1,8 +1,10 @@
-### Overview of the System
+### Overview of LLM Chatbot for Foreign Language Assistance
 
 <p align="center"><img src="./0-assets/images/overview.png"></p>
 
-Our application provides real-time language assistance for users who are traveling in foreign countries. A user inputs the target language they need help with (e.g., German) and their specific query (e.g., “How to order food?”). Our system outputs examples of how to order food, with pronunciation tips, as well as tips for asking the waiter for recommendations, and additional tips about restaurant etiquette or other advice.
+I built this LLM Chatbot which provides real-time language assistance for users who are traveling in foreign countries. A user inputs the target language they need help with (e.g., German) and their specific query (e.g., “How to order food?”). Our system outputs examples of how to order food, with pronunciation tips, as well as tips for asking the waiter for recommendations, and additional tips about restaurant etiquette or other advice.
+
+I built this LLM Chatbot as one component of a broader project, [Polyglot Buddy](https://github.com/omerwyo/polyglot-buddy), which is a collaborative team effort.
 
 ### Full Diagram of Overall Pipeline
 
